@@ -1,4 +1,7 @@
 <h1 align="center">Hey, I'm Abdul Hadi 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulhadi19306v10-oss&color=blue" alt="Profile Views" />
+</p>
 <p align="center">SE undergrad · building real projects with C++ &amp; Python · learning on the go</p>
 
 <p align="center">
@@ -17,6 +20,18 @@
 - 🛠️ Main langs: **C++**, **Python** — also JS, C, HTML
 - 🧠 Currently sharpening DSA + problem solving ([MyLeetcodeSolutions](https://github.com/abdulhadi19306v10-oss/MyLeetcodeSolutions))
 - 🌱 Learning on the go, one repo at a time
+- 🔭 Currently learning: **Modern Web Frameworks & System Design**
+
+---
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ---
 
@@ -44,6 +59,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi19306v10-oss&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulhadi19306v10-oss/abdulhadi19306v10-oss/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulhadi19306v10-oss/abdulhadi19306v10-oss/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulhadi19306v10-oss/abdulhadi19306v10-oss/output/github-snake.svg">
+</picture>
 
 ---
 
