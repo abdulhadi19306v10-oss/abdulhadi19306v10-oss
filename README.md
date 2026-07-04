@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Abdul Hadi 👋</h1>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/abdulhadi19306v10-oss/count.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulhadi19306v10-oss" alt="Profile Views" />
 </p>
 <p align="center">SE undergrad · building real projects with C++ &amp; Python · learning on the go</p>
 
