@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Abdul Hadi 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhadi19306v10-oss&color=blue" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/abdulhadi19306v10-oss/count.svg" alt="Profile Views" />
 </p>
 <p align="center">SE undergrad · building real projects with C++ &amp; Python · learning on the go</p>
 
@@ -20,15 +20,32 @@
 - 🛠️ Main langs: **C++**, **Python** — also JS, C, HTML
 - 🧠 Currently sharpening DSA + problem solving ([MyLeetcodeSolutions](https://github.com/abdulhadi19306v10-oss/MyLeetcodeSolutions))
 - 🌱 Learning on the go, one repo at a time
-- 🔭 Currently learning: **Modern Web Frameworks & System Design**
+- 🔭 Currently learning: **Machine Learning, Deep Learning, Generative AI / LLMs, Neural Networks**
 
 ---
 
-### Tools & Technologies
+### Tech Stack
 
+**Databases**<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Frameworks**<br>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+**Tools**<br>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
