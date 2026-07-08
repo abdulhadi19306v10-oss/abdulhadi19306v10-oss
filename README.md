@@ -56,7 +56,7 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| [**BitChat**](https://github.com/abdulhadi19306v10-oss/BitChat) | Python | Local chat app — audio/video calls, file sharing, group chat, message forwarding |
+| [**Cipher**](https://github.com/abdulhadi19306v10-oss/Cipher) | Python | Local chat app — audio/video calls, file sharing, group chat, message forwarding |
 | [**Campus-Navigation-System**](https://github.com/abdulhadi19306v10-oss/Campus-Navigation-System) | C++ | Navigation system for campus routing |
 | [**Network-Monitoring-System**](https://github.com/abdulhadi19306v10-oss/Network-Monitoring-System) | Python | Tool for monitoring network activity |
 | [**LibReserve**](https://github.com/abdulhadi19306v10-oss/LibReserve) | HTML | Library seat reservation system |
