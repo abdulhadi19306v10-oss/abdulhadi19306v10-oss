@@ -24,13 +24,6 @@ OpenAI-compatible streaming proxy that sits between agent frameworks and LLM pro
 **Databases:** PostgreSQL · pgvector · SQLite
 **Tools:** Git · Docker · Vercel · REST APIs · WebSockets
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhadi19306v10-oss&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi19306v10-oss&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
 ## 📫 Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/abdul-hadi-6930b21b1/) · [Email](mailto:rayaansyed268@gmail.com)
